@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Exercise Sqlite</string>
+    <string name="label">Daftar Kontak</string>
+    <string name="nm">Nama</string>
+    <string name="nt">Nomor Telepon</string>
+    <string name="em">Email</string>
+    <string name="al">Alamat</string>
+    <string name="btn">Simpan</string>
+    <string name="tambah_kontak">Tambahkontak</string>
+</resources>
